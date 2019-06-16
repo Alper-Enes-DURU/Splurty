@@ -6,8 +6,11 @@ ruby '2.5.3'
 
 #Bootsrap
 gem 'bootstrap', '~> 4.3.1'
-# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 
+#want to ship your web application as fast as possible
+gem 'simple_form'
+
+# Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'jquery-rails'
 
 gem 'rails', '~> 5.2.1'
